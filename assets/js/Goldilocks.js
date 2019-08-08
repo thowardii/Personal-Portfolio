@@ -32,7 +32,7 @@ else{
         alert("Ith's too soft and you can't sleep.  The End!");
     }
     else {
-        alert("It's just right and you fall into a deep slunmber.");
+        alert("It's just right and you fall into a deep slumber.");
         alert("You wake up to see three bears looking at you.");
         alert("Shocked you get up and run away never to return again.");
         }
