@@ -9,15 +9,15 @@ var enterCabin = confirm("You come across a strange house in the woods. Do you w
 
     var porridgeChoice = prompt("You walk into the cabin and see a lovely kitchen. On the table there are three bowls of porridge. Do you try 1, 2 or 3?");
       switch (porridgeChoice) {
-        case 1:
+        case "1":
         alert("The porridge is too hot! The End.");
         enterCabin = False;
         break;
-        case 2:
+        case "2":
         alert("The porridge is too cold! The End.");
         enterCabin = False;
         break;
-        case 3:
+        case "3":
         alert("This porridge is just right!");
       }
   
