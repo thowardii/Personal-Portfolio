@@ -64,13 +64,13 @@ function playGame() {
                   alert("You trip and it your head.  The world goes black...")
                 }
 
-                alert("You can only sleep for a short while.")
-                alert("You wake up to see three bears looking at you.");
-                alert("Shocked you get up and run away!");
+               
 
               }
              
-          
+                alert("You can only sleep for a short while.")
+                alert("You wake up to see three bears looking at you.");
+                alert("Shocked you get up and run away!");
             }
 
       
